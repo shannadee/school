@@ -4,7 +4,7 @@ import "../global.css"
 const Profile = () => {
   return (
     <View>
-      <Text>Profilee</Text>
+      <Text>Profilees new</Text>
     </View>
   )
 }
